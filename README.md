@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Awesome personal project**
 
-- 🌱 I’m currently learning **Flutter, Improving my english skills**
+- 🌱 I’m currently learning **Material UI, Improving my english skills**
 
 - 👨‍💻 Visit my personal website [https://fabianrubio.dev/](https://fabianrubio.dev/)
 
