@@ -31,8 +31,10 @@
 <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40"/>
-
-</p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fabianrubio&show_icons=true" alt="fabianrubio" /> </p>
+</p>
+<p align="left"> 
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabianrubio&show_icons=true"&layout=compact&theme=onedarkpro" alt="fabianrubio" /> 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianrubio&layout=compact&theme=onedarkpro" />                                          </p>
 
 <p align="center">
 <a href="https://codepen.io/fabian_rubio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="fabian_rubio" height="20" width="20" /></a>
