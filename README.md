@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Fabian</h1>
 <h3 align="center">I'm Front-End Developer</h3>
 
-<p align="left">I'm a passionate developer with almost 2 years of experience building awesome, high-quality websites and applications, who is curious about new digital technologies and loves to improve his skills every day.</p>
+<p align="left">Self-driven, creative and passionate Front-End Developer with 3+ years of experience building awesome, high-quality and user-friendly websites and applications that users love to use, who is curious about new digital technologies and loves to improve his skills every day. I have a strong passion for working with companies looking to focus on purpose-driven work to better society or day-to-day challenges.
+
+For more info, visit my website: https://fabianrubio.dev</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabianrubio" alt="fabianrubio" /> </p>
 
