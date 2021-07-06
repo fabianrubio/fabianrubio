@@ -16,26 +16,6 @@ For more info, visit my website: https://fabianrubio.dev</p>
 
 </samp>
 
-<p align="left">
-<img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> 
-<img src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
-<img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" alt="css3" width="40" height="40"/> 
-<img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
-<img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" alt="css3" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> 
-<img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40"/>
-</p>
 <p align="left"> 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabianrubio&show_icons=true"&layout=compact&theme=onedarkpro" alt="fabianrubio" /> 
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianrubio&layout=compact&theme=onedarkpro" />                                          </p>
