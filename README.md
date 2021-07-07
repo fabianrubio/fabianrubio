@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Awesome personal project**
 
-- 🌱 I’m currently learning **Material UI, Improving my english skills**
+- 🌱 I’m currently learning **NextJS and Vercel**
 
 - 👨‍💻 Visit my personal website [https://fabianrubio.dev/](https://fabianrubio.dev/)
 
