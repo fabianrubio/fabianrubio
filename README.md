@@ -4,12 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabianrubio" alt="fabianrubio" /> </p>
 
-- 🔭 I’m currently working on **Awesome personal project**
-
-- 🌱 I’m currently learning **NextJS and Vercel**
-
-- 👨‍💻 Visit my personal website [https://fabianrubio.dev/](https://fabianrubio.dev/)
-
 </samp>
 
 <p align="left"> 
