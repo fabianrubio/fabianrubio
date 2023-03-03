@@ -1,6 +1,6 @@
  <samp>
 <h1 align="center">Hi 👋, I'm Fabian</h1>
-<h3 align="center">I'm Frontend Engineer</h3>
+<h3 align="center">I'm Frontend Engineer & Product Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabianrubio" alt="fabianrubio" /> </p>
 
